@@ -1,0 +1,15 @@
+C:\Users\Tomi\Desktop\OnCall\OnCall\bin\Debug\net8.0\OnCall.exe
+C:\Users\Tomi\Desktop\OnCall\OnCall\bin\Debug\net8.0\OnCall.deps.json
+C:\Users\Tomi\Desktop\OnCall\OnCall\bin\Debug\net8.0\OnCall.runtimeconfig.json
+C:\Users\Tomi\Desktop\OnCall\OnCall\bin\Debug\net8.0\OnCall.dll
+C:\Users\Tomi\Desktop\OnCall\OnCall\bin\Debug\net8.0\OnCall.pdb
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.dll
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\refint\OnCall.dll
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.pdb
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.genruntimeconfig.cache
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\ref\OnCall.dll
+C:\Users\Tomi\Desktop\OnCall\OnCall\obj\Debug\net8.0\OnCall.csproj.Up2Date
